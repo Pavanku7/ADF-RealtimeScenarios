@@ -57,19 +57,14 @@
 ### Error: public network access is disabled on your Azure SQL Server 
 
     1. Go to the Azure portal: https://portal.azure.com
-
     2. Navigate to:
       * Resource Group → your SQL Server (e.g., demosqlserver7)
-
     3. In the SQL Server panel, go to:
       * Networking
-
     4. Under Public network access, select:
-      ✅ Selected networks
-
+      * Selected networks
     5. Under Firewall rules, add:
-      ✅ Client IP address
-      ✅ Also add ADF’s IP ranges (see note below)
-      
+      * Client IP address
+      * Also add ADF’s IP ranges (see note below) 
     6. Click Save
 
