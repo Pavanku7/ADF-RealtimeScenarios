@@ -44,15 +44,15 @@
 
 #### 5. Try Connecting Again Using TCP/IP
 
-  Use this in SSMS or CMD:
+    1. Use this in SSMS or CMD:
 ```
   sqlcmd -S 127.0.0.1,1433 -U sa -P yourpassword
 ```
-  Or in SSMS:
-    * Server name: 127.0.0.1,1433
-    * Auth: SQL Server Auth
-    * Login: sa
-    * Password: yourpassword
+    2. Or in SSMS:
+        * Server name: 127.0.0.1,1433
+        * Auth: SQL Server Auth
+        * Login: sa
+        * Password: yourpassword
 
 ### Error: public network access is disabled on your Azure SQL Server 
 
