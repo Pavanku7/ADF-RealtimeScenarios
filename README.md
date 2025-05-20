@@ -72,7 +72,7 @@
 
 1. [AZCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
 2. SFTP
-    # prerequistie
+    ##### prerequistie
    
     * local machine -- Open SSH client enabled
     * port 22 is allowed
