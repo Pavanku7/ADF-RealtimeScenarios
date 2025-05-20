@@ -1,7 +1,7 @@
 # ADF-RealtimeScenarios
 
 ## OnPremise data-copy to ADLS SQL-DB
-
+    
 ### Steps to do a local setup
 
 #### 1. Enable TCP/IP Protocol
@@ -68,3 +68,6 @@
       * Also add ADF’s IP ranges (see note below) 
     6. Click Save
 
+## COPY OnPremise local file/folder to ADLS-Gen2
+
+    1. [AzCopy] (https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
