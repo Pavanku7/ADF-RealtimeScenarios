@@ -70,4 +70,4 @@
 
 ## COPY OnPremise local file/folder to ADLS-Gen2
 
-    1. [AZCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
+1. [AZCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
